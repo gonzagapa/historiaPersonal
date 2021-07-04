@@ -1,0 +1,3 @@
+Este archivo es mi historia
+Tengo 19 años y ando repasando git 
+Vivo en Veracruz
