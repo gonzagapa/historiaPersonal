@@ -1,3 +1,5 @@
 Este archivo es mi historia
 Tengo 19 años y ando repasando git 
 Vivo en Veracruz en frente de un bello lago
+
+Me gusta leer a Nietszche
