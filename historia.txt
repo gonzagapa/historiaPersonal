@@ -3,3 +3,8 @@ Tengo 19 años y ando repasando git
 Vivo en Veracruz en frente de un bello lago
 
 Me gusta leer a Nietszche
+
+<<CONTENIDO>>
+practicando el uso de ramas y fusion entre ellas
+para aprender git, es necesario practicar y practicar
+La vida se compone de los pequeños momentos. 
