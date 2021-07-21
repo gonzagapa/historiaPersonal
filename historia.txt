@@ -2,7 +2,7 @@ Este archivo es mi carta
 Tengo 19 años y ando repasando git 
 Vivo en Veracruz en frente de un bello lago
 
-Me gusta leer a Nietszche
+Me gusta leer a Nietszche y el estoicismo
 
 <<CONTENIDO>>
 practicando el uso de ramas y fusion entre ellas
