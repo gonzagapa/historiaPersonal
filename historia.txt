@@ -7,4 +7,7 @@ Me gusta leer a Nietszche y el estoicismo
 <<CONTENIDO>>
 practicando el uso de ramas y fusion entre ellas
 para aprender git, es necesario practicar y practicar
-La vida se compone de los pequeños momentos. 
+La vida se compone de los pequeños momentos.
+
+<<FOOTER>>
+Dedicatoria para todos mis compañeros de colegio.  
